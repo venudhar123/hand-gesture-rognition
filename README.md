@@ -13,4 +13,4 @@ A real-time hand gesture recognition system built with **Python and OpenCV** to 
 - NumPy
 
 
-[!image alt](https://github.com/venudhar123/hand-gesture-rognition/blob/b749a8eb093539c4259d168819f2a2f00161ea69/hand%20gesture%20image.png)
+[!image alt](https://github.com/venudhar123/hand-gesture-rognition/blob/9f358416085deeb38a3d9d5ff2dcc3a136eb5ebd/hand%20gesture%20image.png)
